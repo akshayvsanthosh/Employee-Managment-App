@@ -1,0 +1,11 @@
+.heading{
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.tableDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
